@@ -14,9 +14,6 @@ Requires [Python 3](https://www.python.org/downloads/) and [Pygame](http://www.p
 
 <pre><code>pip install pygame</code></pre>
 
-**Clone this repo**
-<pre><code>git clone https://github.com/James-Guo/Reaction-Game.git</code></pre>
-
 
 **Run the code**
 
@@ -24,19 +21,8 @@ Requires [Python 3](https://www.python.org/downloads/) and [Pygame](http://www.p
 ## Features
 - Arcade mode
 - Survival mode
-- Dark theme
 - Change circle colours
 - Saves highscores
 - Ability to pause
-
-Options menu             |  Pause screen
-:-------------------------:|:-------------------------:
-![](screenshots/options.png "Options") |  ![](screenshots/pause.png "Pause")
-
-
-
-
-## Future ideas
-- Chase mode
-- Maybe add multiple circles
-- Add border
+- Reaction time detect 
+- mouse coardinate detect
